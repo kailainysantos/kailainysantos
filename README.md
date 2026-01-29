@@ -1,30 +1,27 @@
-# Hi there, I'm Kai! 
+# Hello, I'm Kailainy! 
 
-### 🎓 Computer Science Student & Aspiring Data Engineer
-I'm a 21-year-old developer from São Paulo, Brazil, focused on building robust data pipelines and ensuring Data Quality. Currently transitioning from Data Analysis to **Data Engineering**.
+### Data Engineering Student | Python Enthusiast
 
----
+I turn raw data into strategic assets. Currently studying Analysis and Systems Development (ADS) and building professional data portfolios using **Docker** and **Cloud concepts**.
 
-### 🚀 Project Spotlight
-**[🛡️ SupplyChainGuard](https://github.com/kailainysantos/supply-chain-guard)**
-A complete **Data Quality as a Product (DQaaP)** framework.
-* **Tech:** Python, Docker, PostgreSQL, Streamlit.
-* **What it does:** Audits logistics data in real-time, detecting inconsistencies and calculating reliability scores.
+### 🏆 Featured Work
+> **[SupplyChainGuard 🛡️](https://github.com/kailainysantos/supply-chain-guard)**
+> *Logistics Data Governance Framework built with Medallion Architecture.*
 
 ---
 
-### 🛠️ Tech Stack & Tools
-I love solving problems using code and architecture.
-
-* **Languages:** Python 🐍, SQL (Advanced).
-* **Data Engineering:** Docker 🐳, PostgreSQL 🐘, Git, Pandas.
-* **Visualization:** Streamlit 📊, Power BI.
-* **Databases:** MySQL, Postgres.
+### 💻 Technologies
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)
 
 ---
 
-### 📫 Let's Connect
-* **LinkedIn:** [Kailainy Santos](https://www.linkedin.com/in/kailainy)
-* **Location:** São Paulo, Brazil 🇧🇷
+### 📊 GitHub Stats
+![Kailainy's GitHub stats](https://github-readme-stats.vercel.app/api?username=kailainysantos&show_icons=true&theme=radical)
 
-![Kailainy's GitHub stats](https://github-readme-stats.vercel.app/api?username=kailainysantos&show_icons=true&theme=dracula)
+---
+[Connect on LinkedIn](https://www.linkedin.com/in/kailainy) • São Paulo, SP
