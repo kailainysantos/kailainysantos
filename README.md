@@ -1,6 +1,6 @@
 # Olá, eu sou a Kailainy! 👋
 
-![Header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=Data%20Engineering%20Student&fontSize=40&animation=fadeIn)
+![Header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=Data%20Engineering%20&fontSize=40&animation=fadeIn)
 
 ### 💻 Sobre Mim
 - 🎓 Estudante de **Análise e Desenvolvimento de Sistemas (ADS)** na USF.
