@@ -1,27 +1,30 @@
-# Hello, I'm Kailainy! 
+# Olá, eu sou a Kailainy! 👋
 
-### Data Engineering Student | Python Enthusiast
+![Header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=Data%20Engineering%20Student&fontSize=40&animation=fadeIn)
 
-I turn raw data into strategic assets. Currently studying Analysis and Systems Development (ADS) and building professional data portfolios using **Docker** and **Cloud concepts**.
+### 💻 Sobre Mim
+- 🎓 Estudante de **Análise e Desenvolvimento de Sistemas (ADS)** na USF.
+- 🚀 Focada em transição de carreira para **Engenharia de Dados**.
+- 🛠️ Atualmente trabalhando com: SQL, MySQL, DuckDB e Automação (n8n/Python).
 
-### 🏆 Featured Work
-> **[Censo Tech 🛡️](https://github.com/kailainysantos/censo-tech-data-pipeline.git)**
-> *Logistics Data Governance Framework built with Medallion Architecture.*
+### 📊 Minhas Estatísticas
+<p align="left">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=SEU-USUARIO&show_icons=true&theme=dracula&include_all_commits=true&count_private=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU-USUARIO&layout=compact&langs_count=7&theme=dracula" />
+</p>
+
+### 🛠️ Tecnologias e Ferramentas
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=mysql,postgres,py,bash,github,linux,docker" />
+</p>
+
+---
+
+### 📂 Projetos em Destaque
+- **Censo Tech Analytics:** Análise de dados do INEP utilizando DuckDB.
+- **SupplyChainGuard:** Governança e qualidade de dados para logística.
 
 ---
 
-### 💻 Technologies
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
-![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)
-
----
-
-### 📊 GitHub Stats
-![Kailainy's GitHub stats](https://github-readme-stats.vercel.app/api?username=kailainysantos&show_icons=true&theme=radical)
-
----
-[Connect on LinkedIn](https://www.linkedin.com/in/kailainy) • São Paulo, SP
+### 📫 Vamos nos conectar?
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](SEU-LINK-AQUI)
