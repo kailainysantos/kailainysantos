@@ -1,30 +1,30 @@
-# Olá, eu sou a Kailainy! 👋
+# Hi, I'm Kailainy! 
 
-![Header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=Data%20Engineering%20&fontSize=40&animation=fadeIn)
+![Header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=Data%20Engineering&fontSize=40&animation=fadeIn)
 
-### 💻 Sobre Mim
-- 🎓 Estudante de **Análise e Desenvolvimento de Sistemas (ADS)** na USF.
-- 🚀 Focada em transição de carreira para **Engenharia de Dados**.
-- 🛠️ Atualmente trabalhando com: SQL, MySQL, DuckDB e Automação (n8n/Python).
+### 💻 About Me
+- 🎓 Studying **Analysis and Systems Development (ADS)**.
+- 🚀 Focused on a career transition to **Data Engineering**.
+- 🛠️ Currently working with: SQL, MySQL, DuckDB, and Automation (n8n/Python).
 
-### 📊 Minhas Estatísticas
+### 📊 Stats
 <p align="left">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=SEU-USUARIO&show_icons=true&theme=dracula&include_all_commits=true&count_private=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU-USUARIO&layout=compact&langs_count=7&theme=dracula" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=YOUR-USERNAME&show_icons=true&theme=dracula&include_all_commits=true&count_private=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR-USERNAME&layout=compact&langs_count=7&theme=dracula" />
 </p>
 
-### 🛠️ Tecnologias e Ferramentas
+### 🛠️ Tech Stack
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=mysql,postgres,py,bash,github,linux,docker" />
+  <img src="https://skillicons.dev/icons?i=mysql,postgres,py,bash,linux,docker" />
 </p>
 
 ---
 
-### 📂 Projetos em Destaque
-- **Censo Tech Analytics:** Análise de dados do INEP utilizando DuckDB.
-- **SupplyChainGuard:** Governança e qualidade de dados para logística.
+### 📂 Featured Projects
+- **Censo Tech Analytics:** Data analysis of INEP public records using DuckDB.
+- **SupplyChainGuard:** Data governance and quality framework for logistics.
 
 ---
 
-### 📫 Vamos nos conectar?
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](SEU-LINK-AQUI)
+### 📫 Let's Connect
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](YOUR-LINK-HERE)
