@@ -6,13 +6,12 @@ Building scalable data pipelines and ensuring data integrity through automation.
 ---
 
 ### Featured Projects
--  **[Censo Tech Data Pipeline](https://github.com/kailainysantos/censo-tech-data-pipeline)**: An end-to-end pipeline processing public education data (INEP) to reveal educational insights.
--  **[Supply Chain Guard](https://github.com/kailainysantos/supply-chain-guard)**: A robust data quality framework utilizing **Python**, **Docker**, and **PostgreSQL** to monitor supply chain consistency.
--  **Current Focus**: Mastering **Cloud Infrastructure**, **Advanced SQL Optimization**, and **ETL/ELT Workflows**.
+- **[Censo Tech Data Pipeline](https://github.com/kailainysantos/censo-tech-data-pipeline)**: An end-to-end pipeline processing public education data (INEP) to reveal educational insights.
+- **[Supply Chain Guard](https://github.com/kailainysantos/supply-chain-guard)**: A robust data quality framework utilizing **Python**, **Docker**, and **PostgreSQL** to monitor supply chain consistency.
+- **Current Focus**: Mastering **Cloud Infrastructure**, **Advanced SQL Optimization**, and **ETL/ELT Workflows**.
 
 ---
 
-### Tech Stack
 ### Tech Stack
 <p align="left">
   <img src="https://img.shields.io/badge/SQL-00758F?style=flat-square&logo=mysql&logoColor=white" alt="SQL" />
